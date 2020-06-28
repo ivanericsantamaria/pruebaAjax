@@ -1,7 +1,7 @@
 [
     {   "marca":"Ford",
         "modelos":[
-            {"modelo":"LTD", "año":1988, "precio":5000, "tipo": "sedan", "imagen" :"https://live.staticflickr.com/4748/25900466238_dcefa90206_b.jpg"},
+            {"modelo":"LTD", "version":[{"año":1988, "precio":5000, "tipo": "sedan", "imagen" :"https://live.staticflickr.com/4748/25900466238_dcefa90206_b.jpg"},{"año":1982, "precio":6000, "tipo": "coupe", "imagen" :"https://live.staticflickr.com/4748/25900466238_dcefa90206_b.jpg"}]},
             {"modelo":"Thunderbird", "año":1976, "precio":6500, "tipo": "coupe", "imagen" :"https://live.staticflickr.com/567/20783301799_2f1546636d_b.jpg"},
             {"modelo":"F250", "año":1971, "precio":7000, "tipo": "pick-up", "imagen" :"https://i.pinimg.com/originals/38/bb/0c/38bb0ce8634b5f71eb1b28b0199e5cec.jpg"}]
     },
@@ -38,7 +38,6 @@
         "modelos":[
             {"modelo":"Fifth Avenue", "año":1986, "precio":5000, "tipo": "sedan", "imagen" :"https://upload.wikimedia.org/wikipedia/commons/c/cd/84ChryslerFifthAvenue.jpg"},
             {"modelo":"New Yorker", "año":1988, "precio":2400, "tipo": "sedan", "imagen" :"https://moparforums.com/forums/attachments/f88/18110d1513141202-1988-chrysler-new-yorker-img_7285.jpg"},
-            {"modelo":"New Yorker", "año":1983, "precio":6400, "tipo": "convertible", "imagen" :"https://moparforums.com/forums/attachments/f88/18110d1513141202-1988-chrysler-new-yorker-img_7285.jpg"},
             {"modelo":"300", "año":1968, "precio":7900, "tipo": "convertible", "imagen" :"https://i.pinimg.com/originals/83/1f/16/831f16eaf49ba85828bcda8520b1df8b.jpg"}]
     },
         
