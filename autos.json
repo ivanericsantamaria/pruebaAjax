@@ -38,6 +38,7 @@
         "modelos":[
             {"modelo":"Fifth Avenue", "año":1986, "precio":5000, "tipo": "sedan", "imagen" :"https://upload.wikimedia.org/wikipedia/commons/c/cd/84ChryslerFifthAvenue.jpg"},
             {"modelo":"New Yorker", "año":1988, "precio":2400, "tipo": "sedan", "imagen" :"https://moparforums.com/forums/attachments/f88/18110d1513141202-1988-chrysler-new-yorker-img_7285.jpg"},
+            {"modelo":"New Yorker", "año":1983, "precio":6400, "tipo": "convertible", "imagen" :"https://moparforums.com/forums/attachments/f88/18110d1513141202-1988-chrysler-new-yorker-img_7285.jpg"},
             {"modelo":"300", "año":1968, "precio":7900, "tipo": "convertible", "imagen" :"https://i.pinimg.com/originals/83/1f/16/831f16eaf49ba85828bcda8520b1df8b.jpg"}]
     },
         
