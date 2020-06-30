@@ -20,7 +20,6 @@
             {"modelo":"Malibu", "version": 
                 [{ "año":1967, "precio":8000, "tipo": "coupe", "imagen":"https://cdn1.mecum.com/auctions/fl0119/fl0119-359578/images/1-1542811295492@2x.jpg?1547177921000"}]},
             {"modelo": "Camaro", "version": 
-                [{ "version": 
                 [{"año":1974, "precio":11200, "tipo": "deportivo", "imagen":"https://bringatrailer.com/wp-content/uploads/2018/10/1974_chevrolet_camaro_1540064639be081da73ef9481DSC_0177.jpg?fit=940%2C593"},{"año":1967, "precio":13900, "tipo": "deportivo", "imagen":"https://img.letgo.com/images/15/46/4a/3a/15464a3ab2b10a5dd1dcd0be6d2926ee.jpeg?impolicy=img_600"}]},
             {"modelo":"C-10",  "version": 
                 [{"año":1985, "precio":7200, "tipo": "pick-up", "imagen" :"https://cdn1.mecum.com/auctions/fl0118/fl0118-311440/images/truck-85-white-003-1513879359693@2x.jpg?1518035597000"}]},
